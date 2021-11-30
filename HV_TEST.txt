@@ -2,3 +2,5 @@ Hola, Soy Gustavo Silva.
 
 Estoy Probando el tutorial de Fredy Vega - Platzi.
 09:59 a.m
+
+Probando cambios en user.email
